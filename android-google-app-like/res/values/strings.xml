@@ -8,5 +8,7 @@
     <string name="menu">Menu</string>
     <string name="heading_dismissable_views">Simple Views</string>
     <string name="heading_dismissable_list_view">ListView</string>
+    <string name="undo">Undo</string>
+    <string name="undoall">Undo All</string>
 
 </resources>

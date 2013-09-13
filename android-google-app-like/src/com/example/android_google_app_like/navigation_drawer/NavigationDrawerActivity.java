@@ -1,4 +1,10 @@
-package com.example.android_google_app_like;
+package com.example.android_google_app_like.navigation_drawer;
+
+import com.example.android_google_app_like.R;
+import com.example.android_google_app_like.R.drawable;
+import com.example.android_google_app_like.R.id;
+import com.example.android_google_app_like.R.layout;
+import com.example.android_google_app_like.R.string;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
